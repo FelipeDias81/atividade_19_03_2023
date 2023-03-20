@@ -1,0 +1,40 @@
+.estilo{
+    text-decoration: none;
+    font-size: xx-large;
+    text-align: center;
+    color: azure;
+    background-color: rgb(20, 248, 210);
+    border-color: rgb(20, 248, 210);
+    border-radius: 10px;
+    
+    
+}
+
+.estilo1{
+    text-decoration: none;
+    font-size: x-large;
+    border-radius: 10px;
+
+}
+
+#sexo{
+    text-decoration: none;
+    font-size: x-large;
+    border-radius: 5px;
+
+}
+
+#button{
+    text-decoration: none;
+    font-size: xx-large;
+    text-align: center;
+    color: azure;
+    border-radius: 20px;
+    border-color: rgb(250, 124, 7);
+    background-color: rgb(250, 124, 7);   
+}
+
+.estilo2{
+    text-decoration: none;
+    font-size: x-large;
+}
